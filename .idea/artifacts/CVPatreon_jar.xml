@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CVPatreon:jar">
+    <output-path>$USER_HOME$/Documents/Cubeville/code/GenericTestServer/plugins</output-path>
+    <root id="archive" name="CVPatreon.jar">
+      <element id="module-output" name="CVPatreon" />
+    </root>
+  </artifact>
+</component>
